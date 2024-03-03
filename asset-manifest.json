@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Postal-code-api_React_F4/static/css/main.f7fd34cc.css",
+    "main.js": "/Postal-code-api_React_F4/static/js/main.e42c3c7e.js",
+    "index.html": "/Postal-code-api_React_F4/index.html",
+    "main.f7fd34cc.css.map": "/Postal-code-api_React_F4/static/css/main.f7fd34cc.css.map",
+    "main.e42c3c7e.js.map": "/Postal-code-api_React_F4/static/js/main.e42c3c7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7fd34cc.css",
+    "static/js/main.e42c3c7e.js"
+  ]
+}
